@@ -18,3 +18,4 @@ I am passionate about data science and machine learning, with a keen interest in
 
 ### Thank you for exploring my Email-Spam-Detection-ML project. I hope you find it insightful and valuable!
 
+## [Ahmad Ali CV](https://drive.google.com/file/d/1bNLIx1j85e8ax21ZEC0DPt5C1at8vHjv/view?usp=sharing)
